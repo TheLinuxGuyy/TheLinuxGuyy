@@ -18,3 +18,4 @@
 <img align="left" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg">
 <img align="left" src="https://www.vectorlogo.zone/logos/webassembly/webassembly-icon.svg">
 <img align="left" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
+<img align="left" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg">
