@@ -6,3 +6,11 @@
 <img align="left" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg">
 <img align="left" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
 <img align="left" src="https://www.flaticon.com/free-icon/c_6132222">
+<img align="left" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
+<img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+<img align="left" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">
+<img align="left" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg">
+<img align="left" src="https://www.vectorlogo.zone/logos/atom_io/atom_io-icon.svg">
+<img align="left" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
+<img align="left" src="https://www.vectorlogo.zone/logos/upwork/upwork-icon.svg">
+<img align="left" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
