@@ -2,4 +2,4 @@
 
 
 <h5 align="center">all my programming languages and tools: </h5>
-<img
+<img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg">
