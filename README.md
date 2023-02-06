@@ -28,3 +28,4 @@
 <img align="left" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg">
 <img align="left" src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg">
 <img align="left" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
+<img align="left" src="https://www.vectorlogo.zone/logos/dieselrs/dieselrs-icon.svg">
