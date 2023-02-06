@@ -29,3 +29,4 @@
 <img align="left" src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg">
 <img align="left" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
 <img align="left" src="https://www.vectorlogo.zone/logos/dieselrs/dieselrs-icon.svg">
+<img align="left" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg">
