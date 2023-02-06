@@ -5,7 +5,6 @@
 <img align="left" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg">
 <img align="left" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg">
 <img align="left" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
-<img align="left" src="https://www.flaticon.com/free-icon/c_6132222">
 <img align="left" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
 <img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
 <img align="left" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">
