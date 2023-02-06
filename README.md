@@ -1,5 +1,5 @@
-<h1 align="center">Hello!</h1>
-
+<h1 align="center">Hey!</h1>
+<h1> align="center">str name = "clive"
 
 <h3 align="center">my most used programming languages/tools: </h5>
 <img align="left" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg">
