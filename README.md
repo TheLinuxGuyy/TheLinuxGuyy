@@ -35,3 +35,4 @@
 <img align="left" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg">
 <img align="left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
 <img align="left" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">
+<img align="left" src="https://www.vectorlogo.zone/logos/json/json-icon.svg">
