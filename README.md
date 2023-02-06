@@ -13,4 +13,4 @@
 <img align="left" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
 <img align="left" src="https://www.vectorlogo.zone/logos/upwork/upwork-icon.svg">
 <img align="left" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
-<img align="left" src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png" width="80" height="80">
+<img align="left" src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png" width="50" height="50">
