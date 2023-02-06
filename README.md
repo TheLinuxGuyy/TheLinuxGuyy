@@ -21,3 +21,5 @@
 <img align="left" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg">
 <img align="left" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg">
 <img align="left" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg">
+<img align="left" src="https://www.vectorlogo.zone/logos/pocoo_jinja/pocoo_jinja-icon.svg">
+<img align="left" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg">
