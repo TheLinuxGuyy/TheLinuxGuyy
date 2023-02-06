@@ -32,3 +32,4 @@
 <img align="left" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg">
 <img align="left" src="https://www.vectorlogo.zone/logos/freenomworld/freenomworld-icon.svg">
 <img align="left" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg">
+<img align="left" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg">
