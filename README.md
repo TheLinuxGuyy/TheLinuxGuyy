@@ -1,7 +1,7 @@
 <h1 align="center">Hello!</h1>
 
 
-<h5 align="center">all my programming languages and tools: </h5>
+<h5 align="center">my favourite programming languages and tools: </h5>
 <img align="left" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg">
 <img align="left" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg">
 <img align="left" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
