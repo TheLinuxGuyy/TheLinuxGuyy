@@ -1,5 +1,5 @@
 <h1>let name = "clive"; </h1>
-<h2>let mut hobbys = vec!["building computers","programming","hacking"]; </h2>
+<h2>let mut hobbys = vec!["building computers","programming","hacking","entrepreneurship"]; </h2>
 <h3 align="center">my most used web development tools/languages: </h5>
 <img align="left" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg">
 <img align="left" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg">
